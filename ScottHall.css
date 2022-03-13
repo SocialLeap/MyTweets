@@ -1,0 +1,106 @@
+ .u-section-1 {
+  background-image: url("scott-hall-wwe-1415286090.jpg");
+  background-position: 50% 50%;
+  min-height: 827px;
+}
+
+.u-section-1 .u-group-1 {
+  margin-top: 602px;
+  margin-bottom: 60px;
+  min-height: 153px;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  width: 554px;
+  margin: 16px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.25rem;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: none;
+  margin: 8px auto 0 507px;
+  padding: 10px 13px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 0;
+    margin-left: 405px;
+    padding-right: 14px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    margin-top: 604px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 8px;
+    margin-left: 291px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 882px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 608px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 206px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 54.42% 0%;
+    min-height: 862px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 606px;
+    min-height: 166px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+    margin-right: 6px;
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 24px;
+    margin-right: auto;
+    padding-right: 13px;
+  }
+}
